@@ -1,5 +1,9 @@
-Run "setup.sh" to update and install new packages. It will also create a LFS folder in /mnt and a variable linking to /mnt/LFS.
-
-After running "setup.sh", run "verify.sh" to verify that all necessary packages are downloaded and installed.
-
 For more information, go to https://www.linuxfromscratch.org/lfs/view/stable/index.html
+
+1. Run "setup.sh" to update and install new packages. It will also create a LFS folder in /mnt and a variable linking to /mnt/LFS.
+
+2. After running "setup.sh", run "verify.sh" to verify that all necessary packages are downloaded and installed.
+
+3. Switch to root and run "root.sh"
+
+4. Logout of root and switch to new user, lfs. As lfs, run "lfs.sh"
