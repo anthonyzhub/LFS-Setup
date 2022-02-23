@@ -1,3 +1,5 @@
 Run "setup.sh" to update and install new packages. It will also create a LFS folder in /mnt and a variable linking to /mnt/LFS.
 
-After running "setup.sh", run "verify.sh" to verify that all necessary packages are downloaded and installed. Also, /bin/sh is linked to /usr/bin/dash, so that needs to be updated.
+After running "setup.sh", run "verify.sh" to verify that all necessary packages are downloaded and installed.
+
+For more information, go to https://www.linuxfromscratch.org/lfs/view/stable/index.html
