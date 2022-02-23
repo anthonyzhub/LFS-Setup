@@ -7,3 +7,5 @@ For more information, go to https://www.linuxfromscratch.org/lfs/view/stable/ind
 3. Switch to root and run "root.sh"
 
 4. Logout of root and switch to new user, lfs. As lfs, run "lfs.sh"
+
+5. From this point forever, unless stated in documentation, all commands must be run as lfs

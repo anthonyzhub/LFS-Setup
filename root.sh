@@ -1,4 +1,4 @@
-#! /usr/bin/bash
+#! /bin/bash
 
 create_limited_directory()
 {
