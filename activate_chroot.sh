@@ -32,6 +32,6 @@ enter_chroot_env() {
 		/bin/bash --login +h
 }
 
-mount_and_populate_dev()
-mount_virtual_kernel_file_systems()
-enter_chroot_env()
+mount_and_populate_dev
+mount_virtual_kernel_file_systems
+enter_chroot_env
